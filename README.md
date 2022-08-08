@@ -24,4 +24,4 @@ The data being used behind this report is an online retail dataset which is open
 |Country|country of the customer|
 
 ## Results
-<img href="[plots/9) RFM - CLV score.png](https://github.com/Ankur7-7/Customer-Lifetime-Value-Prediction/blob/main/plots/9)%20RFM%20-%20CLV%20score.png)"/>
+<img href="plots/9) RFM - CLV score.png"/>
