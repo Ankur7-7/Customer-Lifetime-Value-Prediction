@@ -24,4 +24,4 @@ The data being used behind this report is an online retail dataset which is open
 |Country|country of the customer|
 
 ## Results
-![alt text](https://drive.google.com/file/d/1HX0P3_qFv2MPCpYNEPvs_gWagP9B_Ivk/view?usp=sharing)
+![alt text](plots/9 RFM - CLV score.png)
