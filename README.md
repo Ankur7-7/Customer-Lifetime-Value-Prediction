@@ -25,3 +25,4 @@ The data being used behind this report is an online retail dataset which is open
 
 ## Results
 ![alt text](https://github.com/Ankur7-7/Customer-Lifetime-Value-Prediction/blob/main/plots/9%20RFM%20-%20CLV%20score.png)
+The above scatter plot depicts the customer lifetime value from inactive customer to highly active and important customers for the business. It can be seen that our customer lifetime value for each segment of customers is showing a positive growth as we move from low value to high value customers. The customer lifetime value analysis enables us to employ specific strategies around pricing, sales, advertising and customer retention with a goal of continuously reducing costs and increasing profit.
